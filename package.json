@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "my loacl webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briage/webserver.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briage/webserver/issues"
+  },
+  "homepage": "https://github.com/briage/webserver#readme",
+  "devDependencies": {
+    "md5-node": "^1.0.1"
+  }
+}

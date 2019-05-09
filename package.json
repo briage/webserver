@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/briage/webserver#readme",
   "devDependencies": {
-    "md5-node": "^1.0.1"
+    "md5-node": "^1.0.1",
+    "mongodb": "^3.2.3"
   }
 }
